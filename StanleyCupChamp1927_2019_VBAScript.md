@@ -1,11 +1,11 @@
 # Stanley Cup Champion Webscraper
 
 ## Setup
-Before copying the below code into VBA editor in Excel ensure that the following references are selected<br>
+Before copying the below code into the VBA editor in Excel ensure that the following references are selected<br>
 <br>
-Microsoft HTML Object Library<br>
+* **Microsoft HTML Object Library**<br>
 <br>
-Microsoft Internet Controls
+* **Microsoft Internet Controls**
 
 ```VBA
 Sub StanleyCupChamp1927_2019()
