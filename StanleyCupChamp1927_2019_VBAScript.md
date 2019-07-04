@@ -2,9 +2,7 @@
 
 ## Setup
 Before copying the below code into the VBA editor in Excel ensure that the following references are selected<br>
-<br>
 * **Microsoft HTML Object Library**<br>
-<br>
 * **Microsoft Internet Controls**
 
 ```VBA
