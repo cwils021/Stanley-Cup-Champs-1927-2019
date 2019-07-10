@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SCC1927-2019-v2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="216" column="80" selection-start-line="216" selection-start-column="80" selection-end-line="216" selection-end-column="80" />
+            <state relative-caret-position="564">
+              <caret line="138" column="12" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -62,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -263,7 +263,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" x="802" y="292" width="316" height="456" id="Project" order="3" visible="true" weight="0.25426438" />
-      <window_info anchor="right" auto_hide="true" x="-1774" y="23" width="1682" height="907" id="Run" order="4" type="FLOATING" visible="true" weight="0.4434968" />
+      <window_info active="true" anchor="right" auto_hide="true" x="-1733" y="185" width="1682" height="907" id="Run" order="4" type="FLOATING" visible="true" weight="0.4434968" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -297,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SCC1927-2019-v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="216" column="80" selection-start-line="216" selection-start-column="80" selection-end-line="216" selection-end-column="80" />
+        <state relative-caret-position="564">
+          <caret line="138" column="12" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

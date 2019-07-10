@@ -132,6 +132,13 @@ cols = ['Games', 'team_win', 'wcon', 'coach_win', 'win_gs', 'wt_app2d', 'wt_rec2
 data = data[list(cols)]
 print(data.head())
 #print(data.win_gs.value_counts().head(10))
+writer = pd.ExcelWriter('SCC1927-2019-clean-v2.xlsx', engine='xlsxwriter')
+data.to_excel(writer,sheet_name='cleaned_data')
+total_coach_app.to_excel(writer,sheet_name='total_apps_coach')
+total_cup_app.to_excel(writer,sheet_name='total_apps_team')
+writer.save()
+
+
 
 plt.figure(num=1,figsize=(15,6))
 team_wins = data.team_win.value_counts(ascending=True).plot.barh()
@@ -203,7 +210,7 @@ for i,v in enumerate(data.game_end.value_counts()):
 game_end.set_ylabel('Frequency')
 game_end.set_title('Frequency of Cup Winning Games\nEnding in OT')
 plt.xticks(rotation=0)
-plt.savefig('game_end.png')
+#plt.savefig('game_end.png')
 #plt.show()
 plt.close()
 
@@ -219,6 +226,6 @@ top5_coach.set_ylabel('Number of Cups')
 top5_coach.set_xlabel('Coach')
 for i,v in enumerate(t5c):
     top5_coach.text(i,v+0.05,str(v),color='black',ha='center',fontweight='bold')
-plt.savefig('t5win_coach.png')
+#plt.savefig('t5win_coach.png')
 plt.show()
 plt.close()
