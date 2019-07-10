@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/SCC1927-2019-v2.py" line="29" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a14ccb-e083-497a-b6e5-562e616e9774" name="Default Changelist" comment="" />
+    <list default="true" id="f6a14ccb-e083-497a-b6e5-562e616e9774" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCC1927-2019-v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SCC1927-2019-v2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SCC1927-2019.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="734">
+            <state relative-caret-position="2074">
               <caret line="123" column="46" selection-start-line="123" selection-start-column="46" selection-end-line="123" selection-end-column="102" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -28,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SCC1927-2019-v2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="138" column="12" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
+            <state relative-caret-position="785">
+              <caret line="233" column="42" selection-start-line="233" selection-start-column="42" selection-end-line="233" selection-end-column="42" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -62,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -262,22 +265,12 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" x="802" y="292" width="316" height="456" id="Project" order="3" visible="true" weight="0.25426438" />
+      <window_info anchor="right" content_ui="combo" x="802" y="292" width="316" height="456" id="Project" order="3" visible="true" weight="0.18443497" />
       <window_info active="true" anchor="right" auto_hide="true" x="-1733" y="185" width="1682" height="907" id="Run" order="4" type="FLOATING" visible="true" weight="0.4434968" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_data/SCC1927-2019.py" />
-    <entry file="file://$PROJECT_DIR$/SCC1927-2019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="123" column="46" selection-start-line="123" selection-start-column="46" selection-end-line="123" selection-end-column="102" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -295,10 +288,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SCC1927-2019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="123" column="46" selection-start-line="123" selection-start-column="46" selection-end-line="123" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SCC1927-2019-v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="138" column="12" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
+        <state relative-caret-position="785">
+          <caret line="233" column="42" selection-start-line="233" selection-start-column="42" selection-end-line="233" selection-end-column="42" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

@@ -22,7 +22,7 @@ data = data.rename(columns={"Winning team": "team_win",
                             })
 
 #print(data)
-
+print(data.team_win.str.rpartition('(').head())
 #split record and appearances from win_team
 data[['team_win','DROP','WREC']] = data.team_win.str.rpartition('(')
 data = data.drop('DROP', axis=1)
@@ -227,5 +227,6 @@ top5_coach.set_xlabel('Coach')
 for i,v in enumerate(t5c):
     top5_coach.text(i,v+0.05,str(v),color='black',ha='center',fontweight='bold')
 #plt.savefig('t5win_coach.png')
-plt.show()
+#plt.show()
 plt.close()
+
