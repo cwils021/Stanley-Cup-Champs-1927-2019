@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/SCC1927-2019-v2.py" line="29" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a14ccb-e083-497a-b6e5-562e616e9774" name="Default Changelist" comment="" />
+    <list default="true" id="f6a14ccb-e083-497a-b6e5-562e616e9774" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Stanley Cup Champions 1927-2019.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stanley Cup Champions 1927-2019.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SCC1927-2019-v2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="751">
@@ -35,11 +37,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Stanley Cup Champions 1927-2019.ipynb">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -266,7 +263,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" x="802" y="292" width="316" height="456" id="Project" order="3" visible="true" weight="0.18443497" />
+      <window_info anchor="right" content_ui="combo" x="802" y="292" width="316" height="456" id="Project" order="3" visible="true" weight="0.18656716" />
       <window_info anchor="right" auto_hide="true" x="-1803" y="71" width="1682" height="907" id="Run" order="4" type="FLOATING" weight="0.4434968" />
     </layout>
   </component>
@@ -299,6 +296,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Stanley Cup Champions 1927-2019.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/SCC1927-2019-v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="751">
@@ -308,9 +308,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stanley Cup Champions 1927-2019.ipynb">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
